@@ -1,0 +1,2 @@
+# Ignore temporary files made by Unix filename standard compliant applications (such as Emacs)
+*~

@@ -128,11 +128,7 @@ table {
 /* Main CSS */
 * { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
 
- .Rounded {
-   box-shadow: 10px;
-   background-color: white;
-   color: white;
- }
+
 
 body {
 	font-family: sans-serif;

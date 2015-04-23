@@ -137,7 +137,7 @@ table {
 body {
 	font-family: sans-serif;
 	
-	background-color: #9E9E9E;
+	background-color: white;
 	background-image: -webkit-linear-gradient(bottom, #323B55 0%, #424F71 100%);
 	background-image: -moz-linear-gradient(bottom, #323B55 0%, #424F71 100%);
 	background-image: -o-linear-gradient(bottom, #323B55 0%, #424F71 100%);

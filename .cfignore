@@ -1,0 +1,4 @@
+# Ignore .git directory
+.git/
+# Ignore temporary files by some text editors, such as Emacs
+*~

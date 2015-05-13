@@ -5,15 +5,6 @@ Website is at CoderDojoLeaderboard.mybluemix.net
 
 Website is up! After a few hours of late-in-the-evening research, I finally got that great feeling when something finally works. I figured out how to get Bluemix to run the website.
 
-~~Basic outline~~ rant on IBM design principles (feel free to delete this in a few weeks when everyone has read through it):
---------------
-
-- I am NOT using IBM DevOps services on hub.jazz.net. No offence IBM, but it's pretty much junk
-- DevOps is actually only three things: a web IDE (which you shouldn't use), a git live editing pipeline thing, which we don't need, since I (MeFigaYoma) am the only person managing the deployment anyway, and a collaboration tracking framework, which we don't need.
-- Way to be confusing, IBM: Bluemix itself is what we actually need. Bluemix is a cloud service that lets you upload "applications" to their servers using the Cloud Foundry platform/software. It itself is amazing and much better designed than DevOps.
-- Unfortunately, DevOps and Bluemix have the same GUI theme and the SAME TAB ICON. Both of them (but especially Bluemix itself) have good documentation...if you can find it. Actually getting to the documentation consists of trying things and clicking on random "help" links that appear when you try to do something, then following even more links in that documentation to other parts of the documentation until you find what you actually need. What makes it EVEN MORE confusing is when the two websites start linking to each other's documentation. Then you get one page telling you to click a button, and you can't find that button because it's actually on the OTHER website! Anyway, enough of a documentation rant.
-
-
 Basic outline (discuss here if you want, ask questions):
 --------------
 

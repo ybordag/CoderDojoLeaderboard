@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Leaderboard>
+  <Coder>
+    <Name>Alice</Name>
+    <Activities>Scratch</Activities>
+  </Coder>
+  <Coder>
+    <Name>Troy</Name>
+    <Activities>Unity 3D</Activities>
+  </Coder>
+  <Coder>
+    <Name>Tracy</Name>
+    <Activities>Tinkercad</Activities>
+  </Coder>
+  <Coder>
+    <Name>Pranav</Name>
+    <Activities>HTML</Activities>
+  </Coder>
+</Leaderboard>

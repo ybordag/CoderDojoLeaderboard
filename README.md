@@ -1,5 +1,5 @@
-# CoderDojoLeaderboard
-This is a readme file. CoderDojoLeaderboard is now Lightning presentation waitlist. This is how life works.
+# CoderDojoAndroidApp
+This is a readme file. CoderDojoAndroidApp is now Lightning presentation waitlist. This is how life works.
 
 Website is at CoderDojoLeaderboard.mybluemix.net
 

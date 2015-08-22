@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TriValley Coder Dojo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="mainLeaderBoardButton">Leader Board</string>
+    <string name="mainLightningRoundButton">Lightning Round</string>
+    <string name="title_activity_lightning_round">Lightning Round</string>
+    <string name="title_activity_leader_board">Leader Board</string>
+    <string name="lightningBoardAddButtonTitle">Add</string>
+    <string name="lightningRoundNameTextHint">new name</string>
+    <string name="LeaderBoardAddButton">Add</string>
+    <string name="mainSaveButtonTitle">Save</string>
+    <string name="mainClearButtonTitle">Clear</string>
+    <string name="mainLoadButtonTitle">Load</string>
+
+</resources>

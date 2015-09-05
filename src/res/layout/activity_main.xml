@@ -8,49 +8,21 @@
         android:id="@+id/mainLeaderBoardButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
         android:layout_marginTop="102dp"
         android:onClick="onClickLeaderBoard"
-        android:text="@string/mainLeaderBoardButton"
-        android:layout_below="@+id/mainLightningRoundButton"
-        android:layout_centerHorizontal="true"
-    />
+        android:text="@string/mainLeaderBoardButton" />
 
     <Button
         android:id="@+id/mainLightningRoundButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_below="@+id/mainLeaderBoardButton"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="34dp"
         android:onClick="onClickLightningRound"
-        android:text="@string/mainLightningRoundButton"
-        android:layout_marginTop="149dp"
-        android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true" />
+        android:text="@string/mainLightningRoundButton" />
 
 
-    Button
-        android:id="@+id/mainLoadButton"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/mainLightningRoundButton"
-        android:layout_marginTop="20dp"
-        android:layout_centerHorizontal="true"
-        android:onClick="onClickLoad"
-        android:text="@string/mainLoadButtonTitle" />
-
-    Button
-        android:id="@+id/mainSaveButton"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/mainLoadButton"
-        android:layout_marginTop="20dp"
-        android:layout_centerHorizontal="true"
-        android:onClick="onClickSave"
-        android:text="@string/mainSaveButtonTitle" />
-    Button
-        android:id="@+id/mainClearButton"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/mainSaveButton"
-        android:layout_marginTop="20dp"
-        android:layout_centerHorizontal="true"
-        android:onClick="onClickClear"
-        android:text="@string/mainClearButtonTitle" /></RelativeLayout>
+</RelativeLayout>

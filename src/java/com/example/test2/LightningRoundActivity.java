@@ -3,8 +3,6 @@ package com.example.test2;
 import java.util.ArrayList;
 
 import android.app.Activity;
-import android.app.AlertDialog;
-import android.content.DialogInterface;
 import android.graphics.Color;
 import android.graphics.Paint;
 import android.graphics.drawable.Drawable;
@@ -18,7 +16,6 @@ import android.widget.EditText;
 import android.widget.TableLayout;
 import android.widget.TableRow;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import dataSources.KidsDataSource;
 
@@ -36,7 +33,7 @@ public class LightningRoundActivity extends Activity{
 				nameText.setPaintFlags(nameText.getPaintFlags() | Paint.STRIKE_THRU_TEXT_FLAG);
 			}
 			else{
-				//nameText.setBackgroundColor(Color.WHITE);
+				nameText.setPaintFlags( nameText.getPaintFlags() & (~ Paint.STRIKE_THRU_TEXT_FLAG));
 			}
 
 		}
@@ -137,12 +134,8 @@ public class LightningRoundActivity extends Activity{
 			//check name is not already in database
 			Kid found = mKidsData.getKid(newName);
 			if (found != null){
-
-				//clear the edit box
-
 				showMessage("This Kid is already in the Lightning Round");
-
-
+				//clear the edit box
 				mNewNameTextBox.setText("");
  				return;
 			}

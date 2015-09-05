@@ -33,7 +33,7 @@
             android:hint="@string/lightningRoundNameTextHint"
             android:minWidth="100dp"
             android:editable="true"
-            android:inputType = "textNoSuggestions|textPersonName"
+            android:inputType = "textPersonName"
             android:maxLines="1"
             android:singleLine="true">
 	

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Phoenix/Desktop/CoderDojoLeaderBoardApp%20-%20Copy/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="LeaderBoardAddButton">Add</string>
+    <string name="app_name">TriValley Coder Dojo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="lightningBoardAddButtonTitle">Add</string>
+    <string name="lightningRoundNameTextHint">new name</string>
+    <string name="mainClearButtonTitle">Clear</string>
+    <string name="mainLeaderBoardButton">Leader Board</string>
+    <string name="mainLightningRoundButton">Lightning Round</string>
+    <string name="mainLoadButtonTitle">Load</string>
+    <string name="mainSaveButtonTitle">Save</string>
+    <string name="title_activity_leader_board">Leader Board</string>
+    <string name="title_activity_lightning_round">Lightning Round</string>
+    <!-- From: file:/C:/Users/Phoenix/Desktop/CoderDojoLeaderBoardApp%20-%20Copy/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

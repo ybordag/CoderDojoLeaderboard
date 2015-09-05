@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Phoenix\Desktop\CoderDojoLeaderBoardApp - Copy\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="C:\Users\Phoenix\Desktop\CoderDojoLeaderBoardApp - Copy\app\build\intermediates\pre-dexed\debug\classes-94450a7aa6d49bf851dfed58d64bb98905d7b463.jar" />
+    </item>
+    <item
+        jar="C:\Users\Phoenix\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.0\support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="C:\Users\Phoenix\Desktop\CoderDojoLeaderBoardApp - Copy\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.0-927db37331ad37b92aabcf24c197c7da4f22ac89.jar" />
+    </item>
+    <item
+        jar="C:\Users\Phoenix\Desktop\CoderDojoLeaderBoardApp - Copy\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\jars\libs\internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="C:\Users\Phoenix\Desktop\CoderDojoLeaderBoardApp - Copy\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.0-99fde4459aa2db5887c867430ee484f6832ac32c.jar" />
+    </item>
+
+</items>

@@ -23,7 +23,7 @@ public class LeaderBoardActivity extends Activity {
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
- 		super.onCreate(savedInstanceState);
+		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_leader_board);
 
 		ApplicationFactory factory = ApplicationFactory.getInstance();
